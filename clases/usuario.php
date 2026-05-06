@@ -1,10 +1,10 @@
 <?php
     class Usuario{
         public $Id;
-        public $Nombre;
-        public $Apellidos;
+        public $Usuario;
+        public $Contrasena;
+        public $Email;
         public $Fecha_nacimiento;
-        public $Localidad;
 
     }
 ?>
